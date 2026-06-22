@@ -1,0 +1,24 @@
+{
+  "name": "efrat_hello_new_team",
+  "version": "1.0.0",
+  "description": "Efrat_hello_new_team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-smarteck/Efrat_hello_new_team.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/open-smarteck/Efrat_hello_new_team/issues"
+  },
+  "homepage": "https://github.com/open-smarteck/Efrat_hello_new_team#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
